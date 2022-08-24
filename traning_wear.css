@@ -1,0 +1,25 @@
+.wear-comparison-contents {
+  width: 100%;
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.wear-comparison-contents-parts {
+  width: 20%;
+}
+
+.wear-comparison-contents-parts-img {
+  margin-right: 10px;
+}
+
+.wear-comparison-contents-parts-img img {
+  width: 100%;
+  height: 110px;
+}
+
+.wear-comparison-contents-parts-text {
+  text-align: center;
+  font-size: 13px;
+  margin-bottom: 5px;
+}
